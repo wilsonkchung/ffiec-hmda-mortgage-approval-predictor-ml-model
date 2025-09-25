@@ -2,7 +2,7 @@
 - The dataset used in this project is publicly available under the Home Mortgage Disclosure Act (HMDA), provided through the Federal Financial Institutions Examination Council (FFIEC). It is part of the public data record and is widely used for advanced analysis and research on mortgage lending practices, borrower characteristics, and regulatory compliance.
 - https://ffiec.cfpb.gov
 
-# Datasets and  Data Fields (Data Dictrionary)
+# Datasets and  Data Fields (Data Dictionary)
 - HMDA Dataset:
     * https://ffiec.cfpb.gov/data-browser
 - LAR Data Fields:
